@@ -2,8 +2,7 @@
 
 /**
  * main - print _putchar
- * written by idaresit odung
- * Return: 0
+ * written by idaresit odung * Return: 0
 */
 
 int main(void)
@@ -22,3 +21,26 @@ _putchar('\n');
 return (0);
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
