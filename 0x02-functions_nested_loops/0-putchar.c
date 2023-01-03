@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * written by odogwu kelly
+ * written by idaresit odung
  * Return: 0
 */
 
