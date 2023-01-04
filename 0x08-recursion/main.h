@@ -5,7 +5,7 @@
 
 
 void _puts_recursion(char *s);
-_putchar(s);
+int _putchar(char c);
 
 
 
